@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Wahaj-Ahmed
-- 👀 I’m interested in ... becoming a Data Analyst
-- 🌱 I’m currently learning ... the IBM Dta Analyst Course on Coursera
+- 👀 I’m interested in ... becoming a Data Analyst/Engineer
+- 🌱 I’m currently learning ... the bearings of becoming a Machine Learning Generalist 
 - 📫 How to reach me ... my email address  is s.wahajahmed1@gmail.com
